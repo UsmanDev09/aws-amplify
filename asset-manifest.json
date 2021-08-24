@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aws-amplify/static/css/main.b4653720.chunk.css",
+    "main.js": "/aws-amplify/static/js/main.cfe113e3.chunk.js",
+    "main.js.map": "/aws-amplify/static/js/main.cfe113e3.chunk.js.map",
+    "runtime-main.js": "/aws-amplify/static/js/runtime-main.3b6e376c.js",
+    "runtime-main.js.map": "/aws-amplify/static/js/runtime-main.3b6e376c.js.map",
+    "static/js/2.6e4499a8.chunk.js": "/aws-amplify/static/js/2.6e4499a8.chunk.js",
+    "static/js/2.6e4499a8.chunk.js.map": "/aws-amplify/static/js/2.6e4499a8.chunk.js.map",
+    "static/js/3.3a6654ed.chunk.js": "/aws-amplify/static/js/3.3a6654ed.chunk.js",
+    "static/js/3.3a6654ed.chunk.js.map": "/aws-amplify/static/js/3.3a6654ed.chunk.js.map",
+    "index.html": "/aws-amplify/index.html",
+    "static/css/main.b4653720.chunk.css.map": "/aws-amplify/static/css/main.b4653720.chunk.css.map",
+    "static/js/2.6e4499a8.chunk.js.LICENSE.txt": "/aws-amplify/static/js/2.6e4499a8.chunk.js.LICENSE.txt",
+    "static/media/expertdoclogo.4ae815e7.svg": "/aws-amplify/static/media/expertdoclogo.4ae815e7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b6e376c.js",
+    "static/js/2.6e4499a8.chunk.js",
+    "static/css/main.b4653720.chunk.css",
+    "static/js/main.cfe113e3.chunk.js"
+  ]
+}
